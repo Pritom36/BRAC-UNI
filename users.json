@@ -1,0 +1,20 @@
+[
+    {
+        "id": "u1",
+        "username": "JohnDoe",
+        "pin": "e0e6e0ac768fed60b145efa56ff0fc00c809a54f2f26b54a649e5b0b16137a42",
+        "deviceId": "",
+        "expiryDate": "2025-02-31",
+        "isActive": true,
+        "lastLogin": null
+    },
+    {
+        "id": "u2",
+        "username": "JaneSmith",
+        "pin": "e0e6e0ac768fed60b145efa56ff0fc00c809a54f2f26b54a649e5b0b16137a42",
+        "deviceId": "",
+        "expiryDate": "2024-06-30",
+        "isActive": true,
+        "lastLogin": null
+    }
+]
