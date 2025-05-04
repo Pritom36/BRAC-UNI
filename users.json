@@ -43,5 +43,14 @@
             "expiryDate": "2025-12-31",
             "isActive": true,
             "lastLogin": null
+        },
+        {
+            "id": "u6",
+            "username": "Rohit",
+            "pin": "0729563253bc11cb72714d61132adfe7ba2346b581b02546c9ac4a65fc0c02d8",
+            "deviceId": "",
+            "expiryDate": "2025-12-31",
+            "isActive": true,
+            "lastLogin": null
         }
 ]
